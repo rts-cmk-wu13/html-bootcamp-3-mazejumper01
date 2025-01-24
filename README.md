@@ -7,6 +7,8 @@ Tilgængelighed er til for at hjælpe brugere med nedsat evne at navigere og bru
 
 Kan du forklare hvorfor der skal være en `alt`-attribut på et `img`-tag? Skriv dit svar herunder.
 
+svar: `alt` attributet bruges til at enten læse billedet op hvis man har dårligt syn eller hvis billedet ikke kan loade så vil teksten dukke op.
+
 ## WAI-ARIA
 
 > WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. It especially helps with dynamic content and advanced user interface controls developed with Ajax, HTML, JavaScript, and related technologies. Currently certain functionality used in Web sites is not available to some users with disabilities, especially people who rely on screen readers and people who cannot use a mouse. WAI-ARIA addresses these accessibility challenges, for example, by defining new ways for functionality to be provided to assistive technology. With WAI-ARIA, developers can make advanced Web applications accessible and usable to people with disabilities.
